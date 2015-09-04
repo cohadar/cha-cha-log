@@ -3,7 +3,6 @@
 //  Compile with: cc -std=c99 -o bfrandom bfrandom.c
 //=============================================================================
 #include <stdio.h>
-#include <malloc.h>
 #include <stdlib.h>
 #include <stdint.h>
 
